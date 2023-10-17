@@ -9,7 +9,7 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
 
-@Path("/convert/base")
+@Path("/calculator/convert/base")
 public class BaseConversionResource {
 
     private final BaseConverterService service;

@@ -6,7 +6,6 @@ public class BaseConversionRequest {
     private String value;  // Nous utilisons une chaîne pour accommoder les entrées non décimales.
 
     // Getters et setters
-
     public BaseConversionRequest() {
     }
 
